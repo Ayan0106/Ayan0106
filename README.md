@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan0106&label=Profile%20views&color=0e75b6&style=flat" alt="ayan0106" /> </p>
 
-- 🌱 I’m currently learning **DSA, C++, Web Development**
+- 🌱 I’m currently learning **DSA, Web Development**
 
 - ⚡ Fun fact **I am Funny😅**
 
