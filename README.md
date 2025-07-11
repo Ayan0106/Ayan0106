@@ -42,6 +42,7 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
 
 
 ## Github Stats 📈
+
 <!--Most used Languages-->
 <p align="center">
   <a href="https://github.com/Ayan0106#gh-dark-mode-only">
@@ -51,8 +52,13 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan0106&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/Ayan0106#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan0106&" alt="ayan0106" /><a/>
+  <!-- Github streak -->
+<picture>
+    <!-- Dark Mode -->
+    <source
+      srcset="https://streak-stats.demolab.com?user=Ayan0106&theme=radical&card_width=804&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
 </p>
 
 
