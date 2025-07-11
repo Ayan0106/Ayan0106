@@ -11,17 +11,13 @@
 Hi 👋, I'm **Ayan Banerjee**, a passionate **Software Student** from West Bengal, India. Aspiring software developer with a strong foundation in programming, eager to contribute to innovative projects in technology. Committed to continuous learning and applying my skills in real-world challenges.
 
  
-<br>
--  Pursuing **Smart India Hackathon 2024** under Meghnad Saha Institute of Technology.
+<br>-  Pursuing **Smart India Hackathon 2024** under Meghnad Saha Institute of Technology.
 
-- 🌱 I’m currently learning **DSA, C++, Python, Java, Web Development**
+- I’m currently learning **DSA, C++, Python, Java, Web Development**
 
-- 🚀 Participated in Hackathons **Smart India Hackathon 2024** and college innovation projects
+- Participated in Hackathons **Smart India Hackathon 2024** and college innovation projects
 
-
-- ⚡ Fun fact **I am Funny😅**
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-
+- Fun fact **I am Funny**
 
 
 <h3 align="left">Connect with me:</h3>
