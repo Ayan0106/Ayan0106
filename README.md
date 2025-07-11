@@ -13,6 +13,7 @@ Hello👋, I'm **Ayan Banerjee**, a passionate **Computer Science Enthusiast** f
 <br>
  ## 👨‍💻About Me 
  <br>
+ 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Computer+Science+Enthusiast;Frontend+Developer;Passionate+Coder;Tech+Enthusiast;%26+Passionate+Canva+Visual+Designer;)](https://git.io/typing-svg)
 Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institute of Technology.
 
