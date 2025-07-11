@@ -42,6 +42,30 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
 
 
 ## Github Stats 📈
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayan0106&show_icons=true&locale=en&layout=compact" alt="ayan0106" /></p>
+<!--Most used Languages-->
+<p align="center">
+  <a href="https://github.com/Ayan0106#gh-dark-mode-only">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayan0106&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+  </a>
+<a href="https://github.com/Ayan0106#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan0106&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan0106&" alt="ayan0106" /></p>
+<a href="https://github.com/Ayan0106#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan0106&" alt="ayan0106" /><a/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
