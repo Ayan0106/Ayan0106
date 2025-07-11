@@ -11,9 +11,10 @@
 Hello👋, I'm **Ayan Banerjee**, a passionate **Computer Science Enthusiast** from West Bengal, India. Aspiring software developer with a strong foundation in programming, eager to contribute to innovative projects in technology. Committed to continuous learning and applying my skills in real-world challenges.
 
 <br>
-## 👨‍💻About Me 
- <br>
- 
+
+## 👨‍💻About Me
+<br><br>
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Computer+Science+Enthusiast;Frontend+Developer;Passionate+Coder;Tech+Enthusiast;%26+Passionate+Canva+Visual+Designer;)](https://git.io/typing-svg)
 Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institute of Technology.
 
