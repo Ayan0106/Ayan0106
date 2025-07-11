@@ -53,12 +53,7 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
 </a>
 
   <!-- Github streak -->
-<picture>
-    <!-- Dark Mode -->
-    <source
-      srcset="https://streak-stats.demolab.com?user=Ayan0106&theme=radical&card_width=804&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
+<p><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan0106&" alt="Ayan0106" /><a/></p>
 </p>
 
 
