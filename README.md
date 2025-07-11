@@ -6,18 +6,23 @@
   <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=FFA500&width=800&height=60&lines=Who+Am+I)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Ayan Banerjee</h1>
-<h3 align="center">A passionate Software Engineer from West Bengal, India.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=FFA500&width=800&height=60&lines=%F0%9F%94%8D+Who+Am+I)](https://git.io/typing-svg)
 
+Hi 👋, I'm **Ayan Banerjee**, a passionate **Software Student** from West Bengal, India. Aspiring software developer with a strong foundation in programming, eager to contribute to innovative projects in technology. Committed to continuous learning and applying my skills in real-world challenges.
+
+ 
+<br>
+-  Pursuing **Smart India Hackathon 2024** under Meghnad Saha Institute of Technology.
+
+- 🌱 I’m currently learning **DSA, C++, Python, Java, Web Development**
+
+- 🚀 Participated in Hackathons **Smart India Hackathon 2024** and college innovation projects
+
+
+- ⚡ Fun fact **I am Funny😅**
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan0106&label=Profile%20views&color=0e75b6&style=flat" alt="ayan0106" /> </p>
-
-- 🌱 I’m currently learning **DSA, Web Development, Python, Java**
-
-- ⚡ Fun fact **I am Funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
