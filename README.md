@@ -41,7 +41,7 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
   </section>
 
 
-## Github Stats 📈
+## Github Stats📈
 
 <!--Most used Languages-->
 <p align="center">
@@ -53,7 +53,7 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
 </a>
 
   <!-- Github streak -->
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan0106&" alt="Ayan0106" /><a/>
+<p align="center"><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan0106&theme=dark" alt="Ayan0106" /><a/></p>
 </p>
 
 <!-- Activity Graph -->
