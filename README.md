@@ -1,3 +1,12 @@
+<picture>
+  <!-- dark theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="banners/dampdigitsDarknobg.png">
+  <!-- light theme -->
+  <source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">
+  <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
+</picture>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+whoami)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Ayan Banerjee</h1>
 <h3 align="center">A passionate Software Engineer from West Bengal, India.</h3>
 
