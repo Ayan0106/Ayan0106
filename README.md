@@ -12,9 +12,9 @@ Hello👋, I'm **Ayan Banerjee**, a passionate **Software Student** from West Be
 
 
  ## 👨‍💻About Me 
-Pursuing **Smart India Hackathon 2024** under Meghnad Saha Institute of Technology.
+Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institute of Technology.
 
-- I’m currently learning **DSA, C++, Python, Java, Web Development**
+- Skilled in **DSA, C++, Python, Java, Web Development**
 
 - Participated in Hackathons **Smart India Hackathon 2024** and college innovation projects
 
