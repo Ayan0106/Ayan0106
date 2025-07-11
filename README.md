@@ -53,9 +53,11 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
 </a>
 
   <!-- Github streak -->
-<p><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan0106&" alt="Ayan0106" /><a/></p>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan0106&" alt="Ayan0106" /><a/>
 </p>
 
+<!-- Activity Graph -->
+[![Ayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayan0106&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/Ayan0106#gh-dark-mode-only)
 
 
 
