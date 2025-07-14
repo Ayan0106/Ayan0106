@@ -1,9 +1,9 @@
 <picture>
   <!-- dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="Monochrome Modern Personal branding Youtube Thumbnail.png">
+  <source media="(prefers-color-scheme: dark)" srcset="banner black.png">
   <!-- light theme -->
   <!--<source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">-->
-  <img alt="banner" src="Monochrome Modern Personal branding Youtube Thumbnail.png">
+  <img alt="banner" src="banner black.png">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=facc15&width=800&height=60&lines=%24+sudo+introduce-me)](https://git.io/typing-svg)
