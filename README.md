@@ -7,7 +7,7 @@
 </picture>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=FF073A&width=800&height=60&lines=%24+sudo+introduce-me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+sudo+introduce-me)](https://git.io/typing-svg)
 
 Hello👋, I'm **Ayan Banerjee**, a passionate **Computer Science Enthusiast** from West Bengal, India. Aspiring software developer with a strong foundation in programming, eager to contribute to innovative projects in technology. Committed to continuous learning and applying my skills in real-world challenges.
 
