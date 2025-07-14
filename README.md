@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="Monochrome Modern Personal branding Youtube Thumbnail.png">
   <!-- light theme -->
   <!--<source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">-->
-  <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
+  <img alt="banner" src="Monochrome Modern Personal branding Youtube Thumbnail.png">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=facc15&width=800&height=60&lines=%24+sudo+introduce-me)](https://git.io/typing-svg)
