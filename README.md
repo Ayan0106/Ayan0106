@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="banner black.png">
   <!-- light theme -->
   <source media="(prefers-color-scheme: light)" srcset="banner white.png">
-  <img alt="banner" src="banner white.png">
+  <img alt="banner" src="banner black.png">
 </picture>
 <hr><br>
 
