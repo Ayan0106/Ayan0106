@@ -5,12 +5,9 @@
   <!--<source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">-->
   <img alt="banner" src="banner black.png">
 </picture>
+<hr><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=facc15&width=800&height=60&lines=%24+sudo+introduce-me)](https://git.io/typing-svg)
-
-<!--FFA500-->
-<!--9B4EF7-->
-
 Hello👋, I'm **Ayan Banerjee**, a passionate **Computer Science Enthusiast** from West Bengal, India. Aspiring software developer with a strong foundation in programming, eager to contribute to innovative projects in technology. Committed to continuous learning and applying my skills in real-world challenges.
 
 <br>
