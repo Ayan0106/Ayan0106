@@ -1,9 +1,9 @@
 <picture>
   <!-- dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="banner black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="banner black new.png">
   <!-- light theme -->
   <source media="(prefers-color-scheme: light)" srcset="banner white.png">
-  <img alt="banner" src="banner black.png">
+  <img alt="banner" src="banner black new.png">
 </picture>
 <hr><br>
 
