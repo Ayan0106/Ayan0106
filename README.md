@@ -5,7 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="banner white.png">
   <img alt="banner" src="banner black new.png">
 </picture>
-<hr><br>
+<hr>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=facc15&width=800&height=60&lines=%24+sudo+introduce-me)](https://git.io/typing-svg)
 
