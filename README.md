@@ -2,8 +2,8 @@
   <!-- dark theme -->
   <source media="(prefers-color-scheme: dark)" srcset="banner black.png">
   <!-- light theme -->
-  <!--<source media="(prefers-color-scheme: light)" srcset="banners/dampdigitsWhitebg.jpg">-->
-  <img alt="banner" src="banner black.png">
+  <source media="(prefers-color-scheme: light)" srcset="banner white.png">
+  <img alt="banner" src="banner white.png">
 </picture>
 <hr><br>
 
