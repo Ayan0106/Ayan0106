@@ -1,9 +1,9 @@
 <picture>
   <!-- dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="new banner black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="Github Profile Banner.png">
   <!-- light theme -->
-  <source media="(prefers-color-scheme: light)" srcset="banner white.png">
-  <img alt="banner" src="new banner black.png">
+  <source media="(prefers-color-scheme: light)" srcset="Github Profile Banner.png">
+  <img alt="banner" src="Github Profile Banner.png">
 </picture>
 <hr>
 
