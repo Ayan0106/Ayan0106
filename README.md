@@ -32,7 +32,7 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
 <a href="https://instagram.com/ayanbanerjee815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanbanerjee815" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/ayan-banerjee-968758299" target="_blank">
@@ -52,7 +52,7 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
       width="40"
     />
   </a>
-</p>
+</p> -->
 
 ## Languages and Tools 🛠️
 
