@@ -16,14 +16,13 @@ Hello👋, I'm **Ayan Banerjee**, a passionate **Computer Science Enthusiast** f
 <!--FFA500-->
 <!--22d3ee-->
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=FFA500&width=1000&lines=Computer+Science+Enthusiast;Frontend+Developer;Passionate+Coder;Tech+Enthusiast;%26+Passionate+Canva+Visual+Designer;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=FFA500&width=1000&lines=Computer+Science+Enthusiast;Full+Stack+Developer;Passionate+Coder;Tech+Enthusiast;%26+Passionate+Canva+Visual+Designer;)](https://git.io/typing-svg)
 Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institute of Technology.
 
 - Skilled in **DSA, Python, Java, Web Development**
 
 - Participated in Hackathons **Smart India Hackathon 2024** and **Smart India Hackathon 2025** and college innovation projects
 
-- Fun fact **I am Funny**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
