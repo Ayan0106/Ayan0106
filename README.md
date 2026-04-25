@@ -1,11 +1,11 @@
-<picture>
+<!-- <picture> -->
   <!-- dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="Github Profile Banner.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="Github Profile Banner.png"> -->
   <!-- light theme -->
-  <source media="(prefers-color-scheme: light)" srcset="Github Profile Banner.png">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="Github Profile Banner.png">
   <img alt="banner" src="Github Profile Banner.png">
 </picture>
-<hr>
+<hr> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+sudo+introduce-me)](https://git.io/typing-svg)
 
