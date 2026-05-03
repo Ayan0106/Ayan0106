@@ -57,7 +57,7 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
 
 <a href="https://github.com/dampdigits#gh-dark-mode-only">
   <section align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py,fastapi,opencv,flask,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,py,fastapi,opencv,flask,mysql" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,git,bash,powershell,ubuntu">
   </section>
