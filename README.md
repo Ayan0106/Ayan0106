@@ -53,14 +53,18 @@ Pursuing **B.tech in Computer Science and Engineering** in Meghnad Saha Institut
   </a>
 </p> -->
 
-## Languages and Tools 🛠️
 
-<a href="https://github.com/dampdigits#gh-dark-mode-only">
+<!-- <a href="https://github.com/dampdigits#gh-dark-mode-only">
   <section align="center">
     <img src="https://skillicons.dev/icons?i=c,java,html,css,js,py,fastapi,opencv,flask,mysql" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,git,bash,powershell,ubuntu">
-  </section>
+  </section> -->
+  ## Languages and Tools 🛠️
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,python,fastapi,opencv,flask,mysql,vscode,git,github,bash,ubuntu&theme=dark" />
+</p>
 
 
 ## Github Stats📈
